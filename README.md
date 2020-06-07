@@ -1,2 +1,2 @@
 # Encode-Decode-
-Python program for encoding and decoding a program
+This repository contains a simple program in python  for encode and decode a program by any key value
